@@ -23,12 +23,12 @@ A real-time fraud detection pipeline powered by FastAPI, Kafka, and Machine Lear
 ```
 
 ## ⚙️ Features
-✅ Real-time streaming using Apache Kafka
-✅ Fraud prediction using a pre-trained ML model
-✅ REST API built with FastAPI
-✅ Containerized using Docker
-✅ Real-time monitoring with Prometheus and Grafana
-✅ Modular design for easy extension
+- ✅ Real-time streaming using Apache Kafka
+- ✅ Fraud prediction using a pre-trained ML model
+- ✅ REST API built with FastAPI
+- ✅ Containerized using Docker
+- ✅ Real-time monitoring with Prometheus and Grafana
+- ✅ Modular design for easy extension
 
 ## 🚀 Getting Started
 1. Clone the Repository
@@ -65,10 +65,10 @@ python kafka_test_consumer
 ```
 
 ## 📊 Monitoring
-Prometheus config: prometheus.yml
-Metrics endpoint: http://localhost:8000/metrics
-Grafana Dashboard: Visit http://localhost:3000
-(Default user: admin / admin)
+- Prometheus config: prometheus.yml
+- Metrics endpoint: http://localhost:8000/metrics
+- Grafana Dashboard: Visit http://localhost:3000
+- (Default user: admin / admin)
 
 ## 📦 Dependencies
 Listed in requirements.txt. Includes:
